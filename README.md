@@ -63,7 +63,7 @@ python Graphical_UI.py
 - Injury-specific rehab protocols.
 - Personalized meal and workout suggestions.
 
-###7. Special Commands in Chat
+### 7. Special Commands in Chat
 
 - search <query> – Opens a Google search for the query.
 - time – Shows the current time.
